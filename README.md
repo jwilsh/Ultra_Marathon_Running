@@ -236,6 +236,3 @@ df3.query('race_length == "50mi"').groupby('race_season')['athlete_average_speed
 
 ![Faster2](https://github.com/jwilsh/Ultra_Marathon_Running/assets/98908958/ee79ce80-6696-4db6-8537-536380442a87)
 
-
-### Conclusions
-
